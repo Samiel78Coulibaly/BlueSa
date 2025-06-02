@@ -1,0 +1,26 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to right, #e0f7fa, #ffffff);
+}
+header {
+  background: linear-gradient(90deg, #007BFF, #00C6FF);
+  font-family: 'Pacifico', cursive;
+}
+footer {
+  font-family: 'Poppins', sans-serif;
+}
+.product-card {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 15px;
+}
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+.card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  height: 200px;
+  object-fit: cover;
+}
