@@ -64,6 +64,19 @@ new Vue({
       { id: 60, title: 'Soulier Berlti', description: 'Sont plusque un accessoire.', price: '22 000', image: 'images/Berlti2.jpg' },
       { id: 61, title: 'Soulier Berlti', description: 'Completer sont style avec elegance et durabilité.', price: '22 000', image: 'images/Berlti1.jpg' },
       { id: 62, title: 'Soulier Berlti', description: 'un chef parmis temp autres.', price: '22 000', image: 'images/Berlti.jpg' },
+      {id: 63, title: 'Mocassin timberland', description: 'Fabriquée en nubuck,très propre et adaptable a tout endroit.', price: '18 500', image: 'images/Timberland-mo.jpg' },
+      {id: 64, title: 'Mocassin timberland', description: 'Moccassins Timberland sont un execelent choix.', price: '18 500', image: 'images/Timberland-moc.jpg' },
+      {id: 65, title: 'Timberland', description: 'Style unique.', price: '18 500', image: 'images/Timberland-m.jpg' },
+      {id: 66, title: 'Mocassin timberland', description: 'Très cool.', price: '18 500', image: 'images/Timberland-mo1.jpg' },
+      {id: 67, title: 'Mocassin timberland', description: 'Mocassins Timberland élégants en cuir véritable.', price: '18 500', image: 'images/Timberland-mo2.jpg' },
+      {id: 68, title: 'Mocassin timberland', description: 'Confort et style réunis dans ce modele iconique.', price: '18 500', image: 'images/Timberland-mo3.jpg' },
+      {id: 69, title: 'Mocassin timberland', description: 'Semelle souple, finition soigné.', price: '18 500', image: 'images/Timberland-mo4.jpg' },
+      {id: 70, title: 'Mocassin timberland', description: 'Pour vos journéé qctives ou vos sorties stylées cùest un bon choix.', price: '18 500', image: 'images/Timberland-mo5.jpg' },
+      {id: 71, title: 'Mocassin timberland', description: 'Disign sobre et raffiné, ideal pour tout les saisons.', price: '18 500', image: 'images/Timberland-mo6.jpg' },
+      {id: 72, title: 'Mocassin timberland', description: 'Mocassin en cuir souple, respirant et durable.', price: '18 500', image: 'images/Timberland-mo7.jpg' },
+      {id: 73, title: 'Timberland', description: 'Un essentiel intenporel signé Ti,berland.', price: '18 500', image: 'images/Timberland-mo8.jpg' },
+      {id: 74, title: 'Timberland', description: 'Finition cuir grainé et confort absolu.', price: '18 500', image: 'images/Timberland-mo9.jpg' },
+      {id: 75, title: 'Mocassin timberland', description: 'Le mocassin parfait pour vos tenues casual ou habillée.', price: '18 500', image: 'images/Timberland-mo10.jpg' },
     ]
   }
 });
