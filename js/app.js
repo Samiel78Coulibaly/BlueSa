@@ -77,6 +77,18 @@ new Vue({
       {id: 73, title: 'Timberland', description: 'Un essentiel intenporel signé Ti,berland.', price: '18 500', image: 'images/Timberland-mo8.jpg' },
       {id: 74, title: 'Timberland', description: 'Finition cuir grainé et confort absolu.', price: '18 500', image: 'images/Timberland-mo9.jpg' },
       {id: 75, title: 'Mocassin timberland', description: 'Le mocassin parfait pour vos tenues casual ou habillée.', price: '18 500', image: 'images/Timberland-mo10.jpg' },
+      {id: 76, title: 'Chaussure Sneakers', description: 'Style moderne et confort absolu au quotidien.', price: '16 000', image: 'images/Snakers1.jpg' },
+      {id: 77, title: 'Chaussure Sneakers', description: 'Semelle légère, design épuré.', price: '16 000', image: 'images/Snakers2.jpg' },
+      {id: 78, title: 'Chaussure Sneakers', description: 'Alliance parfaite entre syle et performance.', price: '16 000', image: 'images/Snakers3.jpg' },
+      {id: 79, title: 'Chaussure Sneakers', description: 'Basses ideale pour un usage quotidien.', price: '16 000', image: 'images/Snakers4.jpg' },
+      {id: 80, title: 'Chaussure Sneakers', description: 'Pour marcher avec style et élegance.', price: '16 000', image: 'images/Snakers5.jpg' },
+      {id: 81, title: 'Chaussure Sneakers', description: 'Design dynamique, confort inégalé.', price: '16 000', image: 'images/Snakers6.jpg' },
+      {id: 82, title: 'Chaussure Sneakers', description: 'Un basique stylé à avoir dans sa collection.', price: '16 000', image: 'images/Snakers7.jpg' },
+      {id: 83, title: 'Chaussure Sneakers', description: 'Tige respirante pour un maximum de fraicheur.', price: '16 000', image: 'Snakers8.jpg' },
+      {id: 84, title: 'Chaussure Sneakers', description: 'Parfaites pour les sorties, le sport ou la detente.', price: '16 000', image: 'images/Snakers9.jpg.jpg' },
+      {id: 85, title: 'Chaussure Sneakers', description: 'Robuste avec une touche moderne.', price: '16 000', image: 'images/Snakers10.jpg.jpg' },
+      {id: 86, title: 'Chaussure Sneakers', description: 'Un look Casual et branché; sans compromis.', price: '16 000', image: 'images/Snakers11.jpg.jpg' },
+      {id: 87, title: 'Chaussure Sneakers', description: 'Chaussure legère au confort surprenant.', price: '16 000', image: 'images/Snakers12.jpg' },
     ]
   }
 });
