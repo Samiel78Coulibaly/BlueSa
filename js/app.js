@@ -84,10 +84,6 @@ new Vue({
       {id: 80, title: 'Chaussure Sneakers', description: 'Pour marcher avec style et élegance.', price: '16 000', image: 'images/Snakers5.jpg' },
       {id: 81, title: 'Chaussure Sneakers', description: 'Design dynamique, confort inégalé.', price: '16 000', image: 'images/Snakers6.jpg' },
       {id: 82, title: 'Chaussure Sneakers', description: 'Un basique stylé à avoir dans sa collection.', price: '16 000', image: 'images/Snakers7.jpg' },
-      {id: 83, title: 'Chaussure Sneakers', description: 'Tige respirante pour un maximum de fraicheur.', price: '16 000', image: 'Snakers8.jpg' },
-      {id: 84, title: 'Chaussure Sneakers', description: 'Parfaites pour les sorties, le sport ou la detente.', price: '16 000', image: 'images/Snakers9.jpg.jpg' },
-      {id: 85, title: 'Chaussure Sneakers', description: 'Robuste avec une touche moderne.', price: '16 000', image: 'images/Snakers10.jpg.jpg' },
-      {id: 86, title: 'Chaussure Sneakers', description: 'Un look Casual et branché; sans compromis.', price: '16 000', image: 'images/Snakers11.jpg.jpg' },
       {id: 87, title: 'Chaussure Sneakers', description: 'Chaussure legère au confort surprenant.', price: '16 000', image: 'images/Snakers12.jpg' },
     ]
   }
